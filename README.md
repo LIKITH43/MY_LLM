@@ -1,6 +1,7 @@
 # MY_LLM
 
 This repository contains a simple implementation of a Language Model (LLM) in a Jupyter Notebook (`LLM.ipynb`). The notebook demonstrates the basic principles of building an LLM from scratch, focusing on tokenization, n-gram modeling, and text generation.
+This repository provides a foundational implementation of a Language Model (LLM) within a Jupyter Notebook. It serves as an educational tool, demonstrating the core mechanics of building an LLM from scratch. By walking through data preprocessing, tokenization, n-gram modeling, and text generation, it offers a practical introduction to the statistical methods underlying language models. Ideal for those seeking to understand the basic principles of LLMs, this project allows for experimentation and customization, fostering a deeper understanding of how these models learn and generate text.
 
 ## Overview
 
